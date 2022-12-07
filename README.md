@@ -1,4 +1,4 @@
-# AccountingForTakingPills
+# AccountingForTakingPills (09/2021 - 11/2021)
 ## Приложение для учета приема лекарств (C# + WinForms + EF)
 
 **Функции**:
